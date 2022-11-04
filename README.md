@@ -1,6 +1,6 @@
 Titel:  Dokumentattion von Git/Github Repository
 Date:   03-11-2022
-Author: Renato Palavecino
+Author: Renato Palavecino geändert Maximilian Beinlich
 Keywords:   Git, Github, Linux
 
 
@@ -8,7 +8,7 @@ Keywords:   Git, Github, Linux
 [ArchWiki](https://wiki.archlinux.org "ArchWiki")
 
 
-![Alt-Text](Bilder/Archlinux.jpg)
+![Alt-Text](https://github.com/Spruehhack/Projekt1_Linux/blob/master/archlinux.jpg)
 
 ## Projekt Umgebung vorbereiten
 
