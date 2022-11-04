@@ -26,7 +26,7 @@ Keywords:   Git, Github, Linux
     git remote add origin git@github.com:ingeniebrio77/Arcolinux_git.git
 
 
-#### Erstellen Sie ein Vezeichnis mit dem Name Projekt1
+#### Erstellen Sie ein Vezeichnis mit dem Name Projekt1 
 
     cd
     mkdir Projekt1
